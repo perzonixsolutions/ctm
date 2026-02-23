@@ -1,2 +1,2 @@
-# ctm
+# CTM
 collaborative task management system
